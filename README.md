@@ -26,7 +26,7 @@ multimodal systems, agentic AI and AI Security. Feel free to reach out.*
 
 ## 🧠 Research Interests
 
-`Large Language Models` · `Multi-Agent Systems` · `Low-Resource NLP` · `Multimodal AI` · `Secure Multi-Agent Orchestration & Communication Protocols` · `Agentic Security (Excessive Agency)` · `Computer Use Agent (CUA)` · `Autonomous Cybersecurity`
+`Large Language Models` · `Multi-Agent Systems` · `Multimodal AI` · `Secure Multi-Agent Orchestration & Communication Protocols` · `Agentic Security (Excessive Agency)` · `Computer Use Agent (CUA)` · `Autonomous Cybersecurity`
 
 ---
 
