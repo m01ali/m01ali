@@ -17,7 +17,7 @@ I'm an AI Engineer with my BS in Software Engineering at NUST, Pakistan. Heading
 Algoma University, Canada in Summer 2026 as a Research Intern, where I'll be working on
 conversational recommendation agents using LLMs, targeting a research publication as the outcome.
 
-This is my personal GitHub where I document experiments, explorations, and side projects across AI/ML. My interests sit at the intersection of Natural Language Processing, Computer Vision, Multimodal AI, Agentic Systems and Web Backend, with a focus on making large models more grounded, efficient, and trustworthy in the real world.
+This is my personal GitHub where I document experiments, explorations, and side projects across AI/ML. My interests sit at the intersection of `Natural Language Processing`, `Computer Vision`, `Multimodal AI`, `Agentic Systems` and `Web Backend`, with a focus on making large models more grounded, efficient, and trustworthy in the real world.
 
 *Actively looking for a funded Master's by research - particularly in NLP, 
 multimodal systems, agentic AI and AI Security. Feel free to reach out.*
@@ -26,7 +26,7 @@ multimodal systems, agentic AI and AI Security. Feel free to reach out.*
 
 ## 🧠 Research Interests
 
-`Large Language Models` · `Multi-Agent Systems` · `Multimodal AI` · `Secure Multi-Agent Orchestration & Communication Protocols` · `Agentic Security (Excessive Agency)` · `Computer Use Agent (CUA)` · `Autonomous Cybersecurity`
+`Large Language Models` · `Multi-Agent Systems` · `Multimodal AI` · `Multi-Agent Security` · `Agentic Security (Excessive Agency)` · `Computer Use Agent (CUA)` · `Autonomous Cybersecurity`
 
 ---
 
