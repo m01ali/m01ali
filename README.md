@@ -14,7 +14,7 @@
 ## About Me
 
 I'm an AI Engineer with my BS in Software Engineering at NUST, Pakistan. Heading to
-Algoma University, Canada in Summer 2026 as a Research Intern, where I'll be working on
+Algoma University, Canada as a Research Intern, where I'll be working on
 conversational recommendation agents using LLMs, targeting a research publication as the outcome.
 
 This is my personal GitHub where I document experiments, explorations, and side projects across AI/ML. My interests sit at the intersection of `Natural Language Processing`, `Computer Vision`, `Multimodal AI`, `Agentic Systems` and `Web Backend`, with a focus on making large models more grounded, efficient, and trustworthy in the real world.
