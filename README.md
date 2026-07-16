@@ -1,4 +1,4 @@
-<h1 align="center">Hey! I'm Muhammad Ali - I build things with AI 🤖</h1>
+<h1 align="center">Hey! Ali here - I build things with AI</h1>
 
 <p align="center">
   AI Engineer · Incoming Research Intern @ Algoma University, CA · BS Software Engineering @ NUST, PK
