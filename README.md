@@ -1,7 +1,7 @@
 <h1 align="center">Hey! Ali here - I build things with AI</h1>
 
 <p align="center">
-  AI Engineer · Incoming Research Intern @ Algoma University, CA · BS Software Engineering @ NUST, PK
+  AI Engineer ·  BS Software Engineering @ NUST, PK
 </p>
 
 <p align="center">
