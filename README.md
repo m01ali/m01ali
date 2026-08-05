@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:mhd01ali@outlook.com">📧 Email</a> ·
+  <a href="mailto:mhd01alii@outlook.com">📧 Email</a> ·
   <a href="https://linkedin.com/in/muhammad-ali-2480a0255">💼 LinkedIn</a> 
 </p>
 
